@@ -1,10 +1,10 @@
 algoritmo "primeiro"
+// Disciplina   : [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
 var
   msg: caractere
 
 inicio
-
-
 
  Escreval ("Ola, Mundo!")
  Escreval ("Me livrei da maldicao!")
